@@ -13,7 +13,7 @@
 No cables. No accounts. No cloud. Just scan and go.
 
 [![Python](https://img.shields.io/badge/python-3.10+-00ffcc?style=flat-square&logo=python&logoColor=black)](https://python.org)
-[![License](https://img.shields.io/badge/license-MIT-00ffcc?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-CodeAir%20License%20v1.0-00ffcc?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-00ffcc?style=flat-square)]()
 
 </div>
