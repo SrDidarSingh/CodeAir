@@ -1,0 +1,113 @@
+CodeAir Source Available License v1.0
+Copyright (c) 2025 Didar Singh. All rights reserved.
+
+-------------------------------------------------------------------------------
+
+DEFINITIONS
+
+"Software" refers to CodeAir, including all source code, documentation,
+assets, and associated files in this repository.
+
+"Author" refers to Didar Singh, the original creator of CodeAir.
+
+"Use" means running, installing, or integrating the Software.
+
+"Modify" means making changes to the source code of the Software.
+
+"Distribute" means sharing, publishing, or making available the Software
+or any derivative of it to any third party.
+
+-------------------------------------------------------------------------------
+
+PERMISSIONS — You ARE allowed to:
+
+  ✓ Use this Software for personal, educational, or commercial purposes
+  ✓ Read and study the source code
+  ✓ Install and run the Software on any number of machines
+  ✓ Share the original, unmodified Software with others, provided
+    this license and copyright notice remain intact
+  ✓ Submit contributions (pull requests) to the original repository
+  ✓ Reference or discuss this Software in articles, videos, or courses
+
+-------------------------------------------------------------------------------
+
+RESTRICTIONS — You are NOT allowed to:
+
+  ✗ Publish a modified version of this Software as a separate product,
+    library, tool, or package under any name
+  ✗ Fork this repository and release it publicly as your own original work
+  ✗ Rebrand, rename, or repackage this Software and claim it as your
+    own creation
+  ✗ Use a substantial portion of this codebase as the foundation of
+    a competing or similar product without explicit written permission
+    from the Author
+  ✗ Remove, alter, or obscure this license, copyright notices, or
+    author attribution in any copy or derivative
+  ✗ Sublicense or sell the Software or any portion of it
+  ✗ Use the name "CodeAir" or the Author's name to endorse or promote
+    any product derived from this Software without written permission
+
+-------------------------------------------------------------------------------
+
+CONTRIBUTIONS
+
+By submitting a pull request, patch, or any other contribution to this
+repository, you agree that:
+
+  1. Your contribution becomes part of the Software under this license.
+  2. You grant the Author a perpetual, worldwide, royalty-free right to
+     use, modify, and distribute your contribution as part of CodeAir.
+  3. You confirm that you have the right to submit the contribution and
+     that it does not violate any third-party rights.
+
+-------------------------------------------------------------------------------
+
+ATTRIBUTION
+
+Any permitted use or distribution of this Software must:
+
+  1. Retain this license file and copyright notice in full.
+  2. Credit "CodeAir by Didar Singh" in any documentation,
+     product description, or public-facing material that references
+     or includes the Software.
+
+-------------------------------------------------------------------------------
+
+ENFORCEMENT
+
+Violation of any restriction in this license immediately terminates your
+rights under it. The Author reserves the right to pursue any legal remedy
+available, including but not limited to DMCA takedown notices, cease and
+desist orders, and civil litigation.
+
+-------------------------------------------------------------------------------
+
+DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR MISUSE OF THE SOFTWARE.
+
+THE AUTHOR IS NOT RESPONSIBLE FOR ANY MISUSE OF THE SOFTWARE OF ANY KIND.
+
+-------------------------------------------------------------------------------
+
+CONTACT & PERMISSIONS
+
+For use cases not covered above — including commercial licensing,
+partnerships, or explicit permission to modify and redistribute —
+contact the Author directly via GitHub.
+
+GitHub : https://github.com/didarsingh
+Project: https://github.com/didarsingh/codeair
+
+-------------------------------------------------------------------------------
+
+TL;DR
+
+Use it freely. Learn from it. Contribute to it.
+Do not steal it, rename it, and call it yours.
