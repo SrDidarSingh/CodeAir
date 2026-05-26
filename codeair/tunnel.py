@@ -17,9 +17,15 @@ def open_tunnel(port: int) -> tuple[str, object | None]:
     """
     Open a localhost.run SSH tunnel on *port*.
     Returns (url, proc).
-    Falls back to local LAN IP if tunnel fails.
+    Falls back to local LAN IP if SSH is unavailable or tunnel fails.
     """
     from .utils import get_lan_ip
+    from .ssh_setup import ensure_ssh
+
+    # ── SSH availability check (prompts once per session if needed) ───────────
+    if not ensure_ssh():
+        lan = get_lan_ip()
+        return "http://{}:{}".format(lan, port), None
 
     result: dict = {}
     ready = threading.Event()
