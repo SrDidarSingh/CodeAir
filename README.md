@@ -13,7 +13,7 @@
 No cables. No accounts. No cloud. Just scan and go.
 
 [![Python](https://img.shields.io/badge/python-3.10+-00ffcc?style=flat-square&logo=python&logoColor=black)](https://python.org)
-[![License](https://img.shields.io/badge/license-CodeAir%20License%20v1.0-00ffcc?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-Source%20Available-00ffcc?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-00ffcc?style=flat-square)]()
 
 </div>
@@ -137,6 +137,7 @@ codeair/
 │   ├── push.py        ← PC → Phone logic
 │   ├── pull.py        ← Phone → PC logic
 │   ├── tunnel.py      ← localhost.run SSH tunnel
+│   ├── ssh_setup.py   ← SSH detection & auto-install
 │   └── utils.py       ← QR, LAN IP, file helpers
 ├── main.py
 ├── setup.py
@@ -149,7 +150,7 @@ codeair/
 
 - Python **3.10+**
 - `qrcode` (auto-installed with pip)
-- `ssh` on your system (pre-installed on macOS and Linux; Windows: use Git Bash or WSL)
+- `ssh` on your system (pre-installed on macOS and Linux; CodeAir will offer to install it automatically on Windows if missing)
 - For public links: internet connection
 
 ---
